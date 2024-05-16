@@ -1,5 +1,16 @@
 # Cat-and-Dog Detecting cats and dogs using YOLO (You Only Look Once) is a computer vision task where you train a deep learning model to identify and localize cats and dogs in images or videos. YOLO is known for its efficiency and speed in object detection tasks.
 
+# demo
+
+
+
+https://github.com/ravindrakumar125/Cat-and-Dog/assets/154125990/a4c608b5-5c19-4e4d-aa3c-4bc7c64264ae
+
+https://youtu.be/dLajNaQv91E
+
+
+
+
 To perform cat and dog detection using YOLO, you would typically follow these steps:
 
 Data Collection: Gather a large dataset of images containing cats and dogs. Ensure that the images are diverse and representative of the types of scenarios you want the model to perform well on.
